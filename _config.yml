@@ -11,8 +11,8 @@ github_repo: "https://github.com/everydaywillbeok/evelyn.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Life is like a Markov chain, your future only depends on what you are doing now, and independent of your past."
+sidebar-avatar: /img/微信图片_20191230105747.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
